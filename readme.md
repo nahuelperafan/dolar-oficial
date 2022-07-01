@@ -6,4 +6,6 @@ In this application we used react and the framework called VITE, where we make a
 
 This app has a spa, meaning a single page application, does not need links or other pages, where we also make use of the useState and useEffect, has a library called Styled that serves to make the css in a different way to other library.
 
-I leave the files below, so you can check it out and if you want to add more things, welcome, I hope you like it ! greetings.
+I leave the files below, so you can check it out and if you want to add more things, welcome, 
+
+I hope you like it greetings!
